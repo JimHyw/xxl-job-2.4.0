@@ -1,0 +1,13 @@
+
+M
+java:S2589J"7Remove this expression which always evaluates to "true"(¢õ§˜
+®
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(àâ‘:
+T
+java:S4719I"9Replace charset name argument with StandardCharsets.UTF_8(úçß´ÿÿÿÿÿ
+7
+java:S1116I"Remove this empty statement.(úçß´ÿÿÿÿÿ
+E
+java:S2093F"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+:
+java:S1168Z"$Return an empty map instead of null.(¥¹ï
